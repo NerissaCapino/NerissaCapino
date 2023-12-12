@@ -4,7 +4,7 @@ I am Nerissa Capino, with a flair for coding and database management skills. I t
 
 ## Education
 - **BS Information Technology**
-  - New Era University, 2021-Present
+  - New Era University, 2023-Present
 
 ## Certifications
 - [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=8EEA0C0A0D7EED9D7EDCD69001A5EAF88C072E40B38AE0BEDE3EA4FD231368B0&fbclid=IwAR3BnhRRNFP8hyeobq9GDQg6n_o55dJ1gFXdsQK3hf2xGKVjNmc8AeNaJ1E)
